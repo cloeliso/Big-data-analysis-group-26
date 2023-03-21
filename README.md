@@ -7,3 +7,5 @@ We are group 26, named CATOP. We worked on Data Science Bookcamp, study case 4. 
 You will find below all the materials.
 
 Whishing you a good day. 
+
+Blicher Cloé-lys - Valdivia Kimberley - Abdul Azim Hina
